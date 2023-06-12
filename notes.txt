@@ -1,0 +1,16 @@
+https://stackblitz.com/edit/getting-access-to-ng-control?file=src%2Fapp%2Fcontrol-to-element-linker.directive.ts,src%2Fapp%2Fdate-wrapper%2Fdate-wrapper.component.html
+https://dev.to/this-is-angular/advance-angular-dynamic-component-12e
+https://stackblitz.com/edit/angular-ivy-fz8rgo?file=src%2Fapp%2Fapp.component.ts,src%2Fapp%2Fapp.component.html,src%2Fapp%2Fapp.component.css,src%2Fapp%2Fcustom-control-value-accessor%2Fcva-mediator.component.ts
+https://stackblitz.com/edit/dynamically-rendering-angular-ng-value-accessor?file=src%2Fapp%2Fcustom-input.component.ts,src%2Fapp%2Fform-control-outlet.component.ts,src%2Fapp%2Fapp.component.ts
+
+
+https://betterprogramming.pub/how-to-create-a-random-string-with-javascript-9f130ae2227e
+
+https://adamlynch.com/flexible-data-tables-with-css-grid/
+
+
+
+https://blog.stranianelli.com/how-to-create-responsive-data-tables-with-css-grid/
+
+https://markheath.net/post/simple-tables-with-css-grid-layout
+
